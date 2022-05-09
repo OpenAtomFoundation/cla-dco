@@ -1,39 +1,39 @@
 Developer Certificate of Origin
-¿ª·¢ÕßÔ­´´ÉùÃ÷
+å¼€å‘è€…åŸåˆ›å£°æ˜
 Version 1.1
-µÚ1.1°æ
+ç¬¬1.1ç‰ˆ
 
 Copyright (c) 2004, 2006 The Linux Foundation and its contributors.
-°æÈ¨ËùÓĞ (c) 2004, 2006 Linux»ù½ğ»á¼°Æä¹±Ï×Õß¡£
+ç‰ˆæƒæ‰€æœ‰ (c) 2004, 2006 LinuxåŸºé‡‘ä¼šåŠå…¶è´¡çŒ®è€…ã€‚
 1 Letterman Drive
-À³ÌØÂü´óµÀ1ºÅ
+è±ç‰¹æ›¼å¤§é“1å·
 Suite D4700
-D4700ÊÒ
+D4700å®¤
 San Francisco, CA, 94129
-¼ÓÀû¸£ÄáÑÇÖİ¾É½ğÉ½ÊĞ94129
+åŠ åˆ©ç¦å°¼äºšå·æ—§é‡‘å±±å¸‚94129
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-ÈÎºÎÈË¾ù¿É¸´ÖÆºÍ·Ö·¢±¾Ğí¿ÉÎÄ¼ş¸±±¾£¬µ«²»µÃĞŞ¸Ä¡£
+ä»»ä½•äººå‡å¯å¤åˆ¶å’Œåˆ†å‘æœ¬è®¸å¯æ–‡ä»¶å‰¯æœ¬ï¼Œä½†ä¸å¾—ä¿®æ”¹ã€‚
 ****************************************************************************************************************************
 
 Developer's Certificate of Origin 1.1
-¿ª·¢ÕßÔ­´´ÉùÃ÷£¨µÚ1.1°æ£©
+å¼€å‘è€…åŸåˆ›å£°æ˜ï¼ˆç¬¬1.1ç‰ˆï¼‰
 
 By making a contribution to this project, I certify that:
-ÔÚÏò±¾ÏîÄ¿Ìá½»¹±Ï×Ö®Ê±£¬±¾ÈËÉùÃ÷£º
+åœ¨å‘æœ¬é¡¹ç›®æäº¤è´¡çŒ®ä¹‹æ—¶ï¼Œæœ¬äººå£°æ˜ï¼š
 
 (a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
-(a) ¸Ã¹±Ï×È«²¿»ò²¿·ÖÓÉ±¾ÈË´´×÷£¬ÇÒ±¾ÈËÓĞÈ¨¸ù¾İµ±Ç°ÎÄ¼şÖĞËùÊ¾µÄ¿ªÔ´Ğí¿ÉÖ¤Ìá½»£»»ò
+(a) è¯¥è´¡çŒ®å…¨éƒ¨æˆ–éƒ¨åˆ†ç”±æœ¬äººåˆ›ä½œï¼Œä¸”æœ¬äººæœ‰æƒæ ¹æ®å½“å‰æ–‡ä»¶ä¸­æ‰€ç¤ºçš„å¼€æºè®¸å¯è¯æäº¤ï¼›æˆ–
 
 (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
-(b) ¾¡±¾ÈËËùÖª£¬¸Ã¹±Ï×Ëù»ùÓÚµÄÔÚÏÈ×÷Æ·ÒÑ¾­¹ıÊÊµ±µÄ¿ªÔ´Ğí¿ÉÖ¤ÊÚÈ¨£¬ÇÒ¸ù¾İ¸Ã¿ªÔ´Ğí¿ÉÖ¤£¬±¾ÈËÓĞÈ¨ÔÚÏàÍ¬¿ªÔ´Ğí¿ÉÖ¤£¨Èçµ±Ç°ÎÄ¼şÖĞËùÊ¾£©ÏÂÌá½»¸ÃĞŞ¸ÄºóµÄ×÷Æ·£¨³ı·Ç±¾ÈË±»ÔÊĞí¸ù¾İ²»Í¬µÄĞí¿ÉÖ¤Ìá½»£©£¬²»ÂÛÆäÊÇ·ñÈ«²¿»ò²¿·ÖÓÉ±¾ÈË´´×÷£»»ò
+(b) å°½æœ¬äººæ‰€çŸ¥ï¼Œè¯¥è´¡çŒ®æ‰€åŸºäºçš„åœ¨å…ˆä½œå“å·²ç»è¿‡é€‚å½“çš„å¼€æºè®¸å¯è¯æˆæƒï¼Œä¸”æ ¹æ®è¯¥å¼€æºè®¸å¯è¯ï¼Œæœ¬äººæœ‰æƒåœ¨ç›¸åŒå¼€æºè®¸å¯è¯ï¼ˆå¦‚å½“å‰æ–‡ä»¶ä¸­æ‰€ç¤ºï¼‰ä¸‹æäº¤è¯¥ä¿®æ”¹åçš„ä½œå“ï¼ˆé™¤éæœ¬äººè¢«å…è®¸æ ¹æ®ä¸åŒçš„è®¸å¯è¯æäº¤ï¼‰ï¼Œä¸è®ºå…¶æ˜¯å¦å…¨éƒ¨æˆ–éƒ¨åˆ†ç”±æœ¬äººåˆ›ä½œï¼›æˆ–
 
 (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
-(c) ¸Ã¹±Ï×ÊÇÓÉ×÷³ö(a)¡¢(b) »ò(c) ÉùÃ÷µÄÆäËûÈËÖ±½ÓÌá¹©¸ø±¾ÈË£¬ÇÒ±¾ÈËÎ´¶ÔÆä½øĞĞĞŞ¸Ä¡£
+(c) è¯¥è´¡çŒ®æ˜¯ç”±ä½œå‡º(a)ã€(b) æˆ–(c) å£°æ˜çš„å…¶ä»–äººç›´æ¥æä¾›ç»™æœ¬äººï¼Œä¸”æœ¬äººæœªå¯¹å…¶è¿›è¡Œä¿®æ”¹ã€‚
 
 (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved. 
-(d) ±¾ÈËÀí½â²¢Í¬Òâ£¬±¾ÏîÄ¿¼°¹±Ï×ÊÇ¹«¿ªµÄ£¬ÇÒ¹±Ï×£¨°üÀ¨±¾ÈËËæ¸½Ìá½»µÄÈ«²¿¸öÈËĞÅÏ¢£¬º¬±¾ÈËÇ©×Ö£©½«±»ÎŞÏŞÆÚ´æµµ£¬²¢¿ÉÒÔÓë±¾ÏîÄ¿»òËùÉæ¿ªÔ´Ğí¿ÉÖ¤±£³ÖÒ»ÖÂµÄÇéĞÎÏÂÔÙ±»·Ö·¢¡£
+(d) æœ¬äººç†è§£å¹¶åŒæ„ï¼Œæœ¬é¡¹ç›®åŠè´¡çŒ®æ˜¯å…¬å¼€çš„ï¼Œä¸”è´¡çŒ®ï¼ˆåŒ…æ‹¬æœ¬äººéšé™„æäº¤çš„å…¨éƒ¨ä¸ªäººä¿¡æ¯ï¼Œå«æœ¬äººç­¾å­—ï¼‰å°†è¢«æ— é™æœŸå­˜æ¡£ï¼Œå¹¶å¯ä»¥ä¸æœ¬é¡¹ç›®æˆ–æ‰€æ¶‰å¼€æºè®¸å¯è¯ä¿æŒä¸€è‡´çš„æƒ…å½¢ä¸‹å†è¢«åˆ†å‘ã€‚
 
 ****************************************************************************************************************************
 Above Chinese version of the Developer's Certificate of Origin is translated by the OpenAtom Foundation.
-ÒÔÉÏ¿ª·¢ÕßÔ­´´ÉùÃ÷ÖĞÎÄ°æ±¾ÓÉ¿ª·ÅÔ­×Ó¿ªÔ´»ù½ğ»á·­Òë¡£
+ä»¥ä¸Šå¼€å‘è€…åŸåˆ›å£°æ˜ä¸­æ–‡ç‰ˆæœ¬ç”±å¼€æ”¾åŸå­å¼€æºåŸºé‡‘ä¼šç¿»è¯‘ã€‚
